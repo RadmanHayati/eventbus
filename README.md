@@ -1,3 +1,4 @@
+![IMAGE_DESCRIPTION](EventBus-Publish-Subscribe.png) 
 # EventBus Design Pattern with Kotlin and SharedFlow
 
 This project implements the EventBus design pattern using Kotlin and SharedFlow. The EventBus design pattern is a messaging pattern that allows different components of an application to communicate with each other without being tightly coupled. It is a publish-subscribe model where publishers send messages to a central event bus, and subscribers receive those messages.
